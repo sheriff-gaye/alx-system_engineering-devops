@@ -1,0 +1,1 @@
+The pwd prints the working directory in linux
