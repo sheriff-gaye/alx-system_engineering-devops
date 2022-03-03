@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "SCHOOL" > school.mgc
+!:mime school.mgc
