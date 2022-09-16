@@ -1,13 +1,5 @@
-# 0x0A Configuration management
+# 0x0A-configuration_management
 
-## Description
-This project is an introduction to Configuration Management, as part of the first year curriculum of Holberton School.
-This project contains very basic Puppet manifests.
+- In a nutshell, server configuration management (also popularly referred to as IT Automation) is a solution for turning your infrastructure administration into a codebase, describing all processes necessary for deploying a server in a set of provisioning scripts that can be versioned and easily reused. It can greatly improve the integrity of any server infrastructure over time.
 
-## Table of contents
-Files | Description
------ | -----------
-[0-create_a_file.pp](./0-create_a_file.pp) | Puppet manifest that creates a file in the /tmp directory
-[1-install_a_package.pp](./1-install_a_package.pp) | Puppet manifest that installs puppet-lint
-[2-execute_a_command.pp](./2-execute_a_command.pp) | Puppet manifest that kills a process named killmenow
-[killmenow](./killmenow) | Test bash script to kill with manifest 2-execute_a_command.pp
+
